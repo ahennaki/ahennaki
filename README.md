@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ennaki Ahmed
 - 👀 I’m interested in mathematical and computer sciences
 - 🌱 I’m currently learning software engineering and algorithm
-- 📫 How to reach me [...](https://www.linkedin.com/in/ahmed-ennaki-917502161/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ahmed-ennaki-917502161/)
 
 
 <!---
