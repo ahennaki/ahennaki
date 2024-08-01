@@ -17,6 +17,7 @@ I'm currently learning:
 Feel free to explore my repositories and projects. Connect with me if you share similar interests or have any questions!
 
 -  Reach me [LinkedIn](https://www.linkedin.com/in/ahmed-ennaki-917502161/)
+-  Gmail: ennakiahmed96@gmail.com
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aennaki" alt="aennaki's 42 stats" /></a>
 <!---
